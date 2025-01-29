@@ -2,3 +2,5 @@ data.nwb
 /.ipynb_checkpoints
 __pycache__/
 .idea
+demodata
+imagethingy2.py
