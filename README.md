@@ -3,7 +3,7 @@
 Materials and resources for an [internal talk at Rockefeller University](https://www.rockefeller.edu/events-and-lectures/61525-fastplotlib-a-high-level-library-for-ultra-fast-visualization-of-large-datasets-using-modern-graphics-apis/). 
 This repo includes installation instructions and the demo notebooks covered in our talk.
 
-We will upload the slides, as well as a video of the talk, in the next coming weeks.
+Recording: https://www.youtube.com/watch?v=nmi-X6eU7Wo 
 
 For more info on `fastplotlib` see the repo:
 https://github.com/fastplotlib/fastplotlib/
